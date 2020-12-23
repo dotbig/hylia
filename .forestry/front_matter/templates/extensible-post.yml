@@ -23,7 +23,9 @@ fields:
 - name: page_sections
   type: blocks
   label: Page sections
-  template_types: []
+  template_types:
+  - paragraph
+  - media
   config:
     min: 
     max: 
