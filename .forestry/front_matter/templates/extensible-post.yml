@@ -29,3 +29,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- src/extensible/title.md
