@@ -10,4 +10,12 @@ page_sections:
   content: ''
 
 ---
-saSAsA
+post content
+
+![](/images/depositphotos_6427644-stock-photo-taking-a-test.jpg)
+
+something about an image
+
+![](/images/demo-image-1.jpg)
+
+until next time
