@@ -32,4 +32,10 @@ Hopefully, this has demonstrated how simple it is to make a nice looking blog wi
 
 \##h2
 
- 
+an image
+
+ ![](/images/depositphotos_6427644-stock-photo-taking-a-test.jpg)
+
+alright
+
+## fdsa
